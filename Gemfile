@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'bootstrap-generators'
 group :development, :test do
   gem 'rspec-rails'
   gem 'guard-bundler'
